@@ -1,10 +1,12 @@
 #include <stdio.h>
 int main()
 {
-
-    int a;
-    scanf("%d", &a);
-    printf("the value of a is %d", a);
-
+    
+    float a = 2.0;
+    ;
+    scanf("%f", &a);
+    
+    printf("the value of ais %f", a);
+    
     return 0;
 }
