@@ -6,6 +6,4 @@ int main (){
     scanf("%d%d%d%d",&a,&c,&d,&b);
     a>b?printf("a is greater than b"):printf("b is greater than a");
     c>d?printf("c is greater than d"):printf("d is greater than c");
-return 0;
-
-}
+return 0; 
