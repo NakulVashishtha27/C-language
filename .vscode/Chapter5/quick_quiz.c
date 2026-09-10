@@ -7,7 +7,7 @@ void good_evening();
 void good_morning()
 {
     printf("good morning\n");
-}
+} 
 void good_afternoon()
 {
     printf("good afternoon\n");
